@@ -13,7 +13,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://devicons.dev.br/icons?icon=NodeJS&size=5&theme=dark&perline=3" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://devicons.dev.br/icons?icon=Flutter&theme=dark&perline=2" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://devicons.dev.br/icons?icon=Dart&theme=dark&perline=2" alt="dart" width="40" height="40"/> </a> 
-</p>
+</p><br><br>
 
 ### 📊 Stats
 ![Rajiv Tharu GitHub stats](https://github-readme-stats.vercel.app/api?username=rajivtharu666&show_icons=true&theme=gruvbox)
